@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ashishgk1999@gmail.com**
 
-- 📄 Know about my experiences [https://akm-engineer.github.io/Portfolio-website-1/](https://akm-engineer.github.io/Portfolio-website-1/)
+- 📄 Know about my experiences [https://work-ashish.netlify.app/](https://work-ashish.netlify.app//)
 
 - ⚡ Fun fact **I absolutely love trekking**
 
